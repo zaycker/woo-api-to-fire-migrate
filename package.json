@@ -1,0 +1,11 @@
+{
+  "name": "woo-api-to-fire-migrate",
+  "version": "1.0.0",
+  "description": "example of migrating from woocommerce API to firestore",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zaycker",
+  "license": "ISC"
+}
